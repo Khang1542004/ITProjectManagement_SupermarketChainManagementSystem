@@ -1,6 +1,6 @@
 ## Giới thiệu về dự án
 
-Dự án **"Quản trị dự án công nghệ thông tin - Hệ thống quản lý chuỗi siêu thị"** được thực hiện dưới sự hướng dẫn của **TS. Hoàng Nguyễn Vũ**. Đây là một phần của môn học **"Quản trị dự án công nghệ thông tin"** dành cho lớp **48K21.2**, với sự tham gia của các thành viên sau:
+Dự án **"Quản trị dự án công nghệ thông tin - Hệ thống quản lý chuỗi siêu thị"** được thực hiện dưới sự hướng dẫn của **TS. Hoàng Nguyễn Vũ**. Đây là một phần của môn học **"Quản trị dự án công nghệ thông tin"**, với sự tham gia của các thành viên sau:
 
 - Nguyễn Trọng Khang  
 - Nguyễn Thị Thanh Bình  
