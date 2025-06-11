@@ -31,6 +31,9 @@ Dự án sử dụng các công cụ sau:
 - **/diagrams**: Chứa các sơ đồ được tạo bằng Draw.io.  
 - **/ui-designs**: Chứa các bản mẫu giao diện từ Figma.  
 
+### Link Google Drive: https://drive.google.com/drive/folders/1rrk4nhXSqE1BGf1LkZHkQUY43TetGeCh?usp=sharing
+- Trong link có phần Demo Figma
+
 ### Lưu ý
 - Đây là dự án học thuật, tập trung vào việc áp dụng kiến thức quản trị dự án và công nghệ thông tin.  
 - Nội dung chi tiết bao gồm phân tích yêu cầu, thiết kế hệ thống, và quản lý rủi ro.  
